@@ -1,0 +1,25 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Women Category Opens
+
+* "2" saniye kadar bekle
+* Xpath "//*[@text ='Kadın']" li elementi bul ve tıkla
+* "2" saniye kadar bekle
+
+# Pants Category Opens
+
+* "2" saniye kadar bekle
+* Xpath "//*[@index='13']" li elementi bul ve tıkla
+* "2" saniye kadar bekle
+
+#Random Product Selection
+* "2" saniye kadar bekle
+*"//*[@resource-id='com.ozdilek.ozdilekteyim:id/imageView']" Rastgele secim
+* "2" saniye kadar bekle
+
+#Click on Favs Button
+* "2" saniye kadar bekle
+* Id "com.ozdilek.ozdilekteyim:id/imgAddFav" li elementi bul ve tıkla
+* "2" saniye kadar bekle
+

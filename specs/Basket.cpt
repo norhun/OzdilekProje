@@ -1,0 +1,16 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Click two times to back button
+
+*"2" saniye kadar bekle
+*"com.ozdilek.ozdilekteyim:id/ivBack" li elementi bul ve iki kere tıkla
+*"2" saniye kadar bekle
+
+# Size Selection And Adding To Basket
+
+*"2" saniye kadar bekle
+*"//*[@resource-id='com.ozdilek.ozdilekteyim:id/tvInSizeItem']" Rastgele secim
+*"2" saniye kadar bekle
+*Id "com.ozdilek.ozdilekteyim:id/relLayAddCartBtn" li elementi bul ve tıkla
+*"4" saniye kadar bekle

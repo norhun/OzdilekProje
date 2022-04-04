@@ -1,0 +1,20 @@
+#Login Page Verification
+* "com.ozdilek.ozdilekteyim:id/btnLogin" Verification of Login page
+
+
+
+
+
+# Username Entrance
+
+*"3" saniye kadar bekle
+* "com.ozdilek.ozdilekteyim:id/etEposta" li alana kullanıcı adını gir
+*"3" saniye kadar bekle
+
+#Password Entrance
+
+*"3" saniye kadar bekle
+* "com.ozdilek.ozdilekteyim:id/etPassword" li alana şifreyi gir
+*"3" saniye kadar bekle
+
+

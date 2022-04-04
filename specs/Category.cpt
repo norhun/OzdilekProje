@@ -1,0 +1,8 @@
+
+# Click to Categories Button
+* "1" saniye kadar bekle
+* Id "com.ozdilek.ozdilekteyim:id/nav_categories" li elementi bul ve tıkla
+* "3" saniye kadar bekle
+
+# Categories Page Verification
+*"com.ozdilek.ozdilekteyim:id/relLayTop" Verification of categories page

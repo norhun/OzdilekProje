@@ -1,0 +1,15 @@
+
+//# Sayfa üzerinde atla butonunu kontrol et ve gorunur olusa tıkla
+//* "6" saniye kadar bekle
+//* "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" elemetin sayfada gorunur olduğunu kontrol et ve tıkla
+//* "5" saniye kadar bekle
+
+#Click to Start Shopping Button
+* "3" saniye kadar bekle
+* Id "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" li elementi bul ve tıkla
+* "3" saniye kadar bekle
+
+#Shopping Page Verification
+
+*"com.ozdilek.ozdilekteyim:id/nav_campaigns" Verification of shopping page
+
